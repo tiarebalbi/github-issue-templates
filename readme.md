@@ -23,6 +23,10 @@ Templates here are either copied from or modified based on real projects on GitH
 
 *See also [awesome-github-templates](https://github.com/devspace/awesome-github-templates) for more examples in real projects :tada:*
 
+# Contribution
+
+If you want to contribute to this project, send a PR directly instead of creating an issue.
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
